@@ -34,6 +34,14 @@
 - Transaction Analysis
 - Business Analytics
 
+# Technologies Used
+
+- **Programming Language:** Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Environment:** Google Colab / Jupyter Notebook
+- **Data Format:** CSV
+
+
 # Dataset Information
 
 **Dataset Files:**
@@ -178,13 +186,7 @@ By performing data cleaning, missing value treatment, duplicate removal, explora
 
 These insights can help businesses understand customer behaviour, identify valuable customer groups, improve marketing strategies, and make informed business decisions.
 
-# Technologies Used
 
-- **Programming Language:** Python
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **Environment:** Google Colab / Jupyter Notebook
-- **Data Format:** CSV
 
-# Project Type
 
-**Python Data Analytics | Exploratory Data Analysis | Customer & Transaction Analysis**
+
